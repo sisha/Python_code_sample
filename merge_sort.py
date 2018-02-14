@@ -1,3 +1,7 @@
+# Python Example code for merge sort
+# Written by Isha Suri
+
+
 def merge_sort(list):
     if len(list)==1:
         return
